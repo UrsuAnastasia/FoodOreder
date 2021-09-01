@@ -1,21 +1,26 @@
 const Color = {
 
-  black: "#000000",
-  white: "#FFFFFF",
-  peachYellow: "#f9de99",
-  grey: "#e3e3e3",
-  brown: "#ab7C4a",
-  rootBrew: "#2d0f06"
+  DodgerBlue: "#0499FF",
+  LinkWaterGrey: "#D8DBE5",
+  SapphireBlue: "#0C2E6E",
+  LightPurple: "#5779FF",
+  VeryLightBlue: "#F3F6F9",
+  DarkBlue: "#0B2559",
+  White: "#ffffff",
+  MediumGrey: "#74777e",
+  Black: "#010205",
+  Orange: "#F92D01",
+  Green: "#00CB14",
 
 
 
 }
 const Size = {
-  bigSize: "3rem",
-  mediumSize: "2rem",
-  normalSize: "1.1rem",
-  smallSize: "1rem",
-  small: "0.7rem",
+  bigSize: "2.5rem",
+  largeSize: "2rem",
+  mediumSize: "1.5rem",
+  normalSize: "1rem",
+  smallSize: "0.8rem"
 }
 
 export {
